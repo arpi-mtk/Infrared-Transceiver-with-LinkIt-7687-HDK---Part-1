@@ -3,3 +3,5 @@ This tutorial is the first in the sequence of tutorials based on the features of
 
 If you haven’t built a LinkIt 7687 project before, you need to download and install the LinkIt SDK v3, then configure your development environment. Full details of how to do this are provided in the <a href="http://labs.mediatek.com/site/global/developer_tools/mediatek_linkit_rtos/get_started/index.gsp">Get Started with the MediaTek LinkIt™ Development Platform for RTOS</a>. Once you’ve completed this setup you’ll be ready to continue with this tutorial. 
 
+The attached file contains GCC, inc, src folders, including the source and header files of the project. 
+
